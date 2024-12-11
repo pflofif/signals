@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import time
 from datetime import datetime
 
-N = 10 + 3
+N = 10 + 2
 
 
 def generate_signal():

@@ -121,7 +121,7 @@ def save_coefficients(coefficients, filename):
 
 def main():
     Tc = 1
-    n = 3
+    n = 2
     N = 96 + n
     signal = list(bin(N)[2:])
     signal.insert(0, "1")
